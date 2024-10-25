@@ -13,6 +13,10 @@
 <p align="left">📚   Currently I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.<br>🎯 I am fluent in both Spanish and English.<br>🎲 One of my goals is to become DevOps. <br>✨ “I’m working on a masterpiece and I haven’t quite finished it yet"</p>
 
 ###
+<div align="center">
+    <img height="400" src="https://tenor.com/es-419/view/lick-gif-25909915.gif" />
+</div>
+###
 
 <h2 align="left">I like to explore new languages and learning a lot of new technologies. Right now I'm Learning</h2>
 
