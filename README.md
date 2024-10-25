@@ -115,6 +115,6 @@
 ###
 ###
 <div>  
-  <img src="https://img.shields.io/badge/Email-%20galiciar319%40gmail.com-red?logo=Gmail" height="25"/>
-  <img src="https://img.shields.io/badge/Linkedin-%20Miguel%20Ricardo%20Galicia%20Urrutia%20-blue?logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmiguel-ricardo-galicia-urrutia-0a1168164%2F" height="25"/>
+  <a href="mailto:galiciar319@gmail.com"><img src="https://img.shields.io/badge/Email-%20galiciar319%40gmail.com-red?logo=Gmail" height="25"/></a>
+  <a href="https://www.linkedin.com/in/miguel-ricardo-galicia-urrutia-0a1168164/"> <img src="https://img.shields.io/badge/Linkedin%20-Miguel%20Ricardo%20Galicia-blue?logo=linkedin" height="25"/></a>
 </div>  
