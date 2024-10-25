@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">💻 Apps</h4>
 
 ###
