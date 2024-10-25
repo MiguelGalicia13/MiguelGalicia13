@@ -13,9 +13,11 @@
 <p align="left">📚   Currently I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.<br>🎯 I am fluent in both Spanish and English.<br>🎲 One of my goals is to become DevOps. <br>✨ “I’m working on a masterpiece and I haven’t quite finished it yet"</p>
 
 ###
+
 <div align="center">
-    <img height="400" src="https://tenor.com/es-419/view/lick-gif-25909915.gif" />
+  <img height="400" src="https://tenor.com/es-419/view/lick-gif-25909915.gif"  />
 </div>
+
 ###
 
 <h2 align="left">I like to explore new languages and learning a lot of new technologies. Right now I'm Learning</h2>
@@ -39,6 +41,8 @@
 <h2 align="left">Something about my skills</h2>
 
 ###
+
+<br clear="both">
 
 <h4 align="left">💻 Apps</h4>
 
@@ -114,7 +118,6 @@
   <img src="https://streak-stats.demolab.com?user=MiguelGalicia13&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 ###
 <div>  
   <a href="mailto:galiciar319@gmail.com"><img src="https://img.shields.io/badge/Email-%20galiciar319%40gmail.com-red?logo=Gmail" height="25"/></a>
