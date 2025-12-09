@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚   Currently I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.<br>🎯 I am fluent in both Spanish and English.<br>🎲 One of my goals is to become DevOps. <br>✨ “I’m working on a masterpiece and I haven’t quite finished it yet"</p>
+<p align="left">📚   Currently I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.<br>🎯 I am fluent in both Spanish and English.<br>🎲 One of my goals is to become DevOps or a Data Analyst. <br>✨ “I’m working on a masterpiece and I haven’t quite finished it yet"</p>
 
 ###
 
