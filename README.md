@@ -147,7 +147,7 @@
 ###
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=miguelgalicia13)](https://github.com/stats-organization/github-stats-extended)
+  ![Miguel's GitHub stats](https://github-stats-extended.vercel.app/api?username=miguelgalicia13)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ###
