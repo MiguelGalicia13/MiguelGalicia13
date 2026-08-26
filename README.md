@@ -147,7 +147,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MiguelGalicia13&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=miguelgalicia13)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ###
